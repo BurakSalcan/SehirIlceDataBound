@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burak\\source\\repos\\Sehir\u0130lceDataBound\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15FA1B9E-3382-4073-BC72-25F2E927878F}|SehirIlceWebApp\\SehirIlceWebApp.csproj|c:\\users\\burak\\source\\repos\\sehir\u0130lcedatabound\\sehirilcewebapp\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{15FA1B9E-3382-4073-BC72-25F2E927878F}|SehirIlceWebApp\\SehirIlceWebApp.csproj|solutionrelative:sehirilcewebapp\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FA1B9E-3382-4073-BC72-25F2E927878F}|SehirIlceWebApp\\SehirIlceWebApp.csproj|c:\\users\\burak\\source\\repos\\sehir\u0130lcedatabound\\sehirilcewebapp\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FA1B9E-3382-4073-BC72-25F2E927878F}|SehirIlceWebApp\\SehirIlceWebApp.csproj|solutionrelative:sehirilcewebapp\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0CF24F-4153-4B4F-9B64-87A41E60FEF9}|SehirIlceWinForm\\SehirIlceWinForm.csproj|c:\\users\\burak\\source\\repos\\sehir\u0130lcedatabound\\sehirilcewinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA0CF24F-4153-4B4F-9B64-87A41E60FEF9}|SehirIlceWinForm\\SehirIlceWinForm.csproj|solutionrelative:sehirilcewinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0CF24F-4153-4B4F-9B64-87A41E60FEF9}|SehirIlceWinForm\\SehirIlceWinForm.csproj|c:\\users\\burak\\source\\repos\\sehir\u0130lcedatabound\\sehirilcewinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0CF24F-4153-4B4F-9B64-87A41E60FEF9}|SehirIlceWinForm\\SehirIlceWinForm.csproj|solutionrelative:sehirilcewinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\Sehir\u0130lceDataBound\\SehirIlceWebApp\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "SehirIlceWebApp\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\Sehir\u0130lceDataBound\\SehirIlceWebApp\\Default.aspx.cs",
+              "RelativeToolTip": "SehirIlceWebApp\\Default.aspx.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIA5wBsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:45:57.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\Sehir\u0130lceDataBound\\SehirIlceWebApp\\Default.aspx",
+              "RelativeDocumentMoniker": "SehirIlceWebApp\\Default.aspx",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\Sehir\u0130lceDataBound\\SehirIlceWebApp\\Default.aspx",
+              "RelativeToolTip": "SehirIlceWebApp\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-09T15:41:35.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\Sehir\u0130lceDataBound\\SehirIlceWinForm\\Form1.cs",
+              "RelativeDocumentMoniker": "SehirIlceWinForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\Sehir\u0130lceDataBound\\SehirIlceWinForm\\Form1.cs",
+              "RelativeToolTip": "SehirIlceWinForm\\Form1.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAvwCYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:16:26.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\Sehir\u0130lceDataBound\\SehirIlceWinForm\\Form1.cs",
+              "RelativeDocumentMoniker": "SehirIlceWinForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\Sehir\u0130lceDataBound\\SehirIlceWinForm\\Form1.cs [Design]",
+              "RelativeToolTip": "SehirIlceWinForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:12:52.549Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
